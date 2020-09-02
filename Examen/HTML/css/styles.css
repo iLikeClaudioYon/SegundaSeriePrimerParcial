@@ -1,0 +1,66 @@
+.bloqueprincipal{
+    background-color: lightgrey;
+}
+
+.bloque1{
+    margin: 0 ;
+    padding: 5px;
+}
+
+.h1{
+    
+    padding: 5px;
+    background-color: white;
+}
+
+.nav{
+    background-color: white;
+}
+
+.bloque2{
+    margin: 0 ;
+    padding: 5px;
+    width: 65%;
+}
+
+.div{
+    padding: 5px;
+    background-color: white;
+}
+
+.p1{
+    padding: 5px;
+    background-color: white;
+}
+
+.span{
+    padding: 5px;
+    background-color: white;
+}
+
+.p2{
+    padding: 5px;
+    background-color: white;
+}
+
+.bloque4{
+    margin: 0 ;
+    padding: 5px;
+}
+.nombre{
+    
+    padding: 5px;
+    background-color: white;
+}
+
+.carnet{
+    
+    padding: 5px;
+    background-color: white;
+}
+
+.curso{
+    
+    padding: 5px;
+    background-color: white;
+}
